@@ -1,1 +1,5 @@
-Explain what the upstream remote is usually used for, in your own words
+Upstream is used in the context of version control.
+
+When changes are made to a repository they’ll need to be sent back upstream to the Github repository so that everyone is pulling from the same source with the same changes.
+
+Conversely, downstream is when you copy (clone or checkout) from a repository.
